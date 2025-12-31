@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/198de131-28c9-421f-a943-588c3a740369/resourceGroups/appsvc_linux_westus2/providers/Microsoft.Web/sites/prismauiappservice",
+    "appService.deploySubpath": "build"
+}
